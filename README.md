@@ -1,7 +1,7 @@
 # JSONExtensions
 JSONExtensions - JSONUtils for Android
 
-It has these utility methods
+It has these utility methods. Helps to make manual json parsing concise and easier to read.
 
 fun JSONArray.forEachIndexed(lambda: (index: Int) -> Unit)
 
